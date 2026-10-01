@@ -1,0 +1,7 @@
+reviews:
+  review_details: true
+knowledge_base:
+  automatic_linking_mode: disabled
+  linked_repositories:
+    - repository: "org-coderabbit1/grafana-loki"
+      instructions: "Sibling service in the same estate."
