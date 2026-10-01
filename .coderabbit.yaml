@@ -1,5 +1,8 @@
 reviews:
   review_details: true
+  auto_review:
+    base_branches:
+      - ".*"
 knowledge_base:
   automatic_linking_mode: disabled
   linked_repositories:
